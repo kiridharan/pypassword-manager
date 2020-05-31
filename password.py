@@ -1,7 +1,7 @@
 import sqlite3
 
 
-master_password = 'kiridharan'
+master_password = 'YOURNAME'
 
 passwd = str(input('ENTER THE PASSWORD: '))
 
